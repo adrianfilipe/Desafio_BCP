@@ -25,4 +25,3 @@ Este projeto realiza a consolidação e análise de dados de negociação de deb
 - **Python**: Para manipulação e análise dos dados.
   - Bibliotecas: `pandas`, `matplotlib`, `requests`
 - **Jupyter Notebook**: Para desenvolvimento iterativo do projeto.
-- **Power BI**: Para análise posterior e visualizações avançadas.
